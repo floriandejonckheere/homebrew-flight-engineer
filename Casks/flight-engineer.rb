@@ -1,6 +1,6 @@
 cask "flight-engineer" do
-  version "1.2.0"
-  sha256 "cfebc55892a61a28b812fb0af4629bce1e5cf996f815a07ba90ccae970563558"
+  version "1.3.0"
+  sha256 "be87bf6b5d0d83e964a4c0592cb862149851558925c4a7a5957690ce5c574578"
 
   url "https://github.com/floriandejonckheere/flight-engineer/releases/download/v#{version}/FlightEngineer-#{version}.zip"
   name "Flight Engineer"
